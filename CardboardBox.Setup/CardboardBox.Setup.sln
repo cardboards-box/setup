@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardboardBox.Setup", "CardboardBox.Setup\CardboardBox.Setup.csproj", "{BDFB1F2C-0878-42AE-99BD-7B714A3CA3C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardboardBox.Setup.TestCli", "CardboardBox.Setup.TestCli\CardboardBox.Setup.TestCli.csproj", "{5D870D27-2493-4388-BB04-BD633F9846FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFB1F2C-0878-42AE-99BD-7B714A3CA3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFB1F2C-0878-42AE-99BD-7B714A3CA3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFB1F2C-0878-42AE-99BD-7B714A3CA3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFB1F2C-0878-42AE-99BD-7B714A3CA3C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D870D27-2493-4388-BB04-BD633F9846FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D870D27-2493-4388-BB04-BD633F9846FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D870D27-2493-4388-BB04-BD633F9846FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D870D27-2493-4388-BB04-BD633F9846FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27248C60-3AC5-40B5-B4D9-5D636180B06F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CardboardBox.Setup.TestCli": {
+      "commandName": "Project",
+      "commandLineArgs": "sigterm"
+    }
+  }
+}
